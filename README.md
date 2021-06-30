@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Max
+- 🌱 I’m currently learning Python + MongoDB
